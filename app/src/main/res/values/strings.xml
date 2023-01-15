@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemon</string>
+    <string name="affirmation1">Lemon</string>
+    <string name="affirmation2">Lemon2</string>
+    <string name="affirmation3">Lemon3</string>
+    <string name="affirmation4">Lemon4</string>
+    <string name="affirmation5">Lemon5</string>
+    <string name="affirmation6">Lemon6</string>
+    <string name="affirmation7">Lemon7</string>
+
+</resources>
